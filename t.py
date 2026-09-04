@@ -6,3 +6,4 @@ b= a/10
 print(b**3)
 
 #owpeifj
+#зря я соеденил main в rngplus
