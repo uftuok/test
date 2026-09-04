@@ -1,2 +1,7 @@
 from random import randint
-print(randint(0,99))
+a = randint(0,19)
+b= a/10
+print(b)
+
+def zero(): return(0)
+b = zero()
